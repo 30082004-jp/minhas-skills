@@ -1,0 +1,3 @@
+# Guarda e entrega todos os arquivos byte a byte (sem converter fim de linha),
+# para os scripts .sh das skills funcionarem também em clones feitos no Windows.
+* -text
